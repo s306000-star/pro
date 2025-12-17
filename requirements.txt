@@ -3,15 +3,15 @@ google-generativeai
 
 telethon
 aiocron
-ffmpeg
+
 emoji
 pytz
 
 qrcode
-Telegram
+
 aiohttp
 fake_useragent
-user_agent
+
 hijri_converter
 googletrans==4.0.0-rc1
 gpytranslate
