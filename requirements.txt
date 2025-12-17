@@ -7,7 +7,7 @@ aiocron
 ffmpeg
 emoji
 pytz
-gtts
+gtts==2.5.1
 qrcode
 Telegram
 aiohttp
